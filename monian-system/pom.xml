@@ -11,5 +11,15 @@
 
     <artifactId>monian-system</artifactId>
 
+    <dependencies>
+        <!-- 通用工具-->
+        <dependency>
+            <groupId>com.monian</groupId>
+            <artifactId>monian-common</artifactId>
+        </dependency>
+
+    </dependencies>
+
+
 
 </project>
